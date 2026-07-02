@@ -76,5 +76,3 @@ Aspiring Data Analyst | Business Analyst
 
 ### Connect with Me
 - Linkedin : https://www.linkedin.com/in/namratadaz04
-- LinkedIn: *(Add your LinkedIn profile link)*
-- GitHub: *(Add your GitHub profile link)*
